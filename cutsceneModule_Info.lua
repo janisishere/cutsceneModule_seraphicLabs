@@ -1,6 +1,6 @@
 local info = {}
 
 info.newestVersion = 1
-info.whatsInNewestUpdate = "[VERSION 1] Published Module!"
+info.whatsInNewestUpdate = "\n[VERSION 1]\n Published Module!"
 
 return info

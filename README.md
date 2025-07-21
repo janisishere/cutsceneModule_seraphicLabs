@@ -1,13 +1,11 @@
 Cutscene Module [Roblox]
 
 <a name="top"></a>
-<div align="center">
+<div align="left">
 <h1>Cutscene Module V1</h1>
 a module for easier cutscene creation <br>
 module is still WIP!
 <br>
-
-[<img src="upload://5P0jNRTLfjKqzdWgdFYFKIkkTha.png"></img>](https://create.roblox.com/store/asset/94199538794915) [<img src="upload://w12gi65pagEUK3deFiehJrOUXjS.png"></img>](https://github.com/janisishere/cutsceneModule_seraphicLabs/)
 
 
 <hr>
@@ -30,43 +28,18 @@ Current Version: 1.4
 * Auto-Correction
   * The Module supports Tab-Completion & uses `setmetatable()`
 
-<h2>👀 Check it out: </h2>
-
-[details="🎬 Showcase"]
-<h3>🚧 A Example:</h3>
-
-![showcase1|video](upload://bVXBMPySj9eN11S4xd8iNRsLFlZ.mp4)
-[/details]
-
 ## :rocket: Get started!
-
-[details="💡 Tutorial"]
 
 | 🚀 Navigation |
 | --- |
 | [Getting the Module](#gettingthemodule) |
 | [Requiring the Module](#requiringthemodule) |
 | [A Example](#example) |
+| [Skip To Documentation](#documentation) |
 
 <a name="gettingthemodule"></a>
 <h2> Getting the Module </h2>
-The Module is available from the Roblox Creator Store and GitHub.
-You can get the Module from the 'Get' and 'Git' Button at the Start.
-<br>
-
-[🚀 Jump to the Top](#top)
-
-* **To get it from the Creator Store**
-  * Click `Get` at the top of this post.
-  * Click `Get Model`.
-  * Open the Tool-Box in Roblox Studio.
-  * Navigate to the `Inventory` tab.
-  * Click on `Cutscene Module V1.23`.
-* **To get it from GitHub:**
-  * Click `Git` at the start of this post.
-  * Go to `Releases`.
-  * Download the latest `.rbxm` file.
-  * Import the file into Roblox Studio.
+You can get the Module from the Creator Store or from this GitHub.
 
 Then place it anywhere you want.
 
@@ -185,16 +158,13 @@ task.wait(1)
 cutscene:StartDialog()
 ```
 
-For more information look at the Documentation below this dropdown menu.
-
-[/details]
+For more information look at the Documentation below.
 
 <br>
 
-[details="📃 Documentation"]
+<a name="documentation"></a>
 <br>
 
-[details="🚀Navigation"]
 |  |
 | --- |
 | [ccm.new()](#c.new) |
@@ -208,7 +178,6 @@ For more information look at the Documentation below this dropdown menu.
 | [cutscene:GetCamera()](#c:getcamera) |
 | [cutscene:StartDialoge()](#c:startdialoge) |
 | [cutscene:Destroy()](#c:destroy) |
-[/details]
 
 
 <h2> Functions </h2>
@@ -286,19 +255,6 @@ Starts the dialog with the settings specified under the cutscene.
 
 <b>`cutscene:Destroy()`</b>
 Destroys the cutscene, including its GUIs and Parts.
-
-[/details]
-
-
-<hr>
-Remember: This Module is still WIP and most things are subject to change.
-If you have any suggestions, questions or bug reports, join my Discord below or just comment under this forum.
-
-If I made any error on here I'm deeply sorry.
-
-The module took me around 5 hours to write, and the forum post around 2 hours.
-I would appreciate if you included credits. :)
-Feel free to give feedbacks!
 
 <hr>
 <div align="center">
